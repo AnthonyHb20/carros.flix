@@ -1,0 +1,15 @@
+body{
+    background: rgb(120, 120, 168);
+    color:rgb(20, 53, 241);
+    font-size: x-large;
+    font-style: italic;
+    margin: 0px;
+}
+
+header{
+border-style:solid;
+border-bottom: solid 2px rgb(120, 120, 168);
+font-size: 32px;
+color:rgb(20, 53, 241);
+
+}
